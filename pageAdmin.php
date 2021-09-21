@@ -44,6 +44,12 @@
     <title>Page Admin</title>
 </head>
 <body>
+<div class="py-3 px-5 mb-4 bg-red-100 text-red-900 text-sm rounded-md border border-red-200" role="alert">
+                Cette page <strong>est réservée aux administrateurs</strong> <a href="index.php">Cliquez ici pour retourner à <strong>la page d'accueille</strong></a>
+            </div>
+
+
+
 <div class="flex justify-center min-h-screen bg-gray-100">  
   <div class="container sm:mt-40 mt-24 my-auto max-w-md border-2 border-gray-200 p-3 bg-white">
     <!-- header -->  
@@ -85,3 +91,5 @@
 
 
 </html>
+
+
