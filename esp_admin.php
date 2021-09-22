@@ -26,16 +26,19 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@iconscout/unicons@3.0.6/css/line.css">
 
 <!-- component -->
+<div class="py-3 px-5 mb-4 bg-green-200 text-red-900 text-sm rounded-md border border-red-200" role="alert">
+             <a href="index.php">Cliquez ici pour retourner à <strong>la page d'accueille</strong></a>
+            </div>
 
 
 <div class="w-full max-w-6xl min-w-0 mx-auto px-6">
-      <div class="flex mt-12 bg-white rounded-md shadow">
-        <div class="w-64 bg-red-100 rounded-l-md border-r border-dashed border-red-200">
-          <div class="flex justify-center items-center h-32 text-red-700 text-center font-semibold text-3xl italic">
-            <a href="#"></a>
+      <div class="flex mt-8 bg-white rounded-md shadow"> 
+         <div class="w-64 bg-red-100 rounded-l-md border-r border-dashed border-red-200">
+           <div class="flex justify-center items-center h-38 text-red-700 text-center font-semibold text-3xl italic">
+            <img src="./imgVoyages/dec.png" />
           </div>
           
-        </div>
+        </div> 
         <form action="#" method="POST" enctype="application/x-www-form-urlencoded">
         <div class="flex-grow">
           <div class="flex flex-col mx-40 mt-20">
@@ -69,4 +72,4 @@
     </div>
   </form>
 
-  <a href="index.php">Cliquez ici pour retourner à la page d'accueille</a>
+  

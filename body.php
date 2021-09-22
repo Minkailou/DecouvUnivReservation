@@ -84,7 +84,7 @@
 
       <div class="w-4/6 text-center mx-auto mt-20  ">
       <h1 class="titre"><b>Visitez les plus belles destinations</b></h1> 
-        
+<!--         
         <button
           type="button"
           class="border border-gray-700 text-black rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:bg-gray-800 hover:text-white  focus:outline-none focus:shadow-outline"
@@ -122,7 +122,7 @@
           Amerique Centrale et du Sud
         </button>
       </div>
-    </div>
+    </div> -->
      
   </div>
 
@@ -141,7 +141,7 @@
 
   
 
-  <div class="container mx-auto p-12  rounded-xl w-4/6  "> 
+  <div class="container mx-auto p-12  rounded-x2 w-4/6  "> 
   <div class="sm:grid sm:grid-cols-2 lg:grid-cols-4 gap-4 space-y-4 sm:space-y-0">
 
   <?php

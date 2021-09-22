@@ -10,7 +10,7 @@
          $deleteArticle = $idcom->prepare('DELETE FROM voyages WHERE id = ?');
           $deleteArticle->execute(array($getid));
 
-          
+          echo "votre post à étè bien supprimer";
 
            header('location: index.php');
           
